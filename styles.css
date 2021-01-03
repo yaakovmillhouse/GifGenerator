@@ -1,0 +1,40 @@
+.gif {
+    margin-right: 10px;
+    margin-left: 20px;
+    height: 200px;
+    width: 270px;
+}
+
+#instructions {
+    text-align: center;
+    font-style: italic;
+}
+
+#jumbotron {
+    background-image: url(funnydog.jpg);
+    background-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#gifs-appear-here{
+    margin-left: 2rem;
+}
+
+button{
+    margin-right: 3px;
+    margin-bottom: 18px;
+    border-radius: 3px;
+    background-color: lightgreen;
+    border-color: black;
+}
+
+.lead {
+    width: 30%;
+}
+
+#add-animal {
+    border-radius: 3px;
+    background-color: lightskyblue;
+    border-color: black;
+}
